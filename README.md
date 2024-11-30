@@ -1,0 +1,2 @@
+This is a Dijkstra's algorithm Visualization tool written in C++ using Simple and Fast Multimedia Library (SFML). An example graph was used in this project, but any graph can be used. Some of the code related to SFML was generated or modified with the assistance of ChatGPT, while the logic was written by me. If you find any errors or have any questions, feel free to contact me at: elmarismayilovstudent@gmail.com.
+Video demonstration: https://youtu.be/6aWBwcdLqp0?si=SWmMWOpq7DnIh6s4
