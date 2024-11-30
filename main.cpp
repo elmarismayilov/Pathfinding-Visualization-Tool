@@ -132,7 +132,7 @@ void drawGraph(sf::RenderWindow& window, int graph[V][V], sf::Font& font) {
 int main() {
     sf::RenderWindow window(sf::VideoMode(600, 600), "Visualized Path Find");
     sf::Font font;
-    if (!font.loadFromFile("/Users/elmar/Downloads/arial/ARIAL.TTF")) return -1;
+    if (!font.loadFromFile("#FONT_PATH")) return -1;
 
     init_matrix(graph);
     test_graph(graph);
